@@ -1394,7 +1394,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(/my_blog/img/background.png);
+  background: url(https://cdn.staticaly.com/gh/zpzporange/blog_img@master/img/202302031842542.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;

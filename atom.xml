@@ -3,11 +3,11 @@
   <title>0range&#39;s Home</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zpzporange.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zpzporange.github.io/"/>
   <updated>2023-02-02T12:02:48.836Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zpzporange.github.io/</id>
   
   <author>
     <name>Alan Grimm</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/02/hello-world/"/>
-    <id>http://example.com/2023/02/02/hello-world/</id>
+    <link href="https://zpzporange.github.io/2023/02/02/hello-world/"/>
+    <id>https://zpzporange.github.io/2023/02/02/hello-world/</id>
     <published>2023-02-02T12:02:48.836Z</published>
     <updated>2023-02-02T12:02:48.836Z</updated>
     

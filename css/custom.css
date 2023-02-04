@@ -458,7 +458,9 @@ div#category {
     left: -125px;
 }
 
-@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+/*@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";*/
+@import "//at.alicdn.com/t/c/font_3879715_4e4pqoiv53s.css";
+
 
 /* 滚动条样式 */
 ::-webkit-scrollbar {

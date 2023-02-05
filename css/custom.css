@@ -99,37 +99,37 @@ svg.icon.faa-tada {
 
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /* 文章页面正文背景 */
 div#post {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /* 分页页面 */
 div#page {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /* 归档页面 */
 div#archive {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /* 标签页面 */
 div#tag {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /* 分类页面 */
 div#category {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /*夜间模式伪类遮罩层透明*/
@@ -201,9 +201,9 @@ div#category {
 
 /* 音乐播放器 */
 
-/* .aplayer .aplayer-lrc {
+ .aplayer .aplayer-lrc {
   display: none !important;
-} */
+}
 
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
     left: -66px !important;
@@ -463,37 +463,3 @@ div#category {
 @import "//at.alicdn.com/t/c/font_3879715_d83jztor0cf.js";
 
 
-/* 滚动条样式 */
-::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
-}
-
-::-webkit-scrollbar-track {
-    background-color: rgba(73, 177, 245, 0.2);
-    border-radius: 2em;
-}
-
-::-webkit-scrollbar-thumb {
-    background-color: #54a0ff;
-    background-image: -webkit-linear-gradient(
-            45deg,
-            rgba(255, 255, 255, 0.4) 25%,
-            transparent 25%,
-            transparent 50%,
-            rgba(255, 255, 255, 0.4) 50%,
-            rgba(255, 255, 255, 0.4) 75%,
-            transparent 75%,
-            transparent
-    );
-    border-radius: 2em;
-}
-
-::-webkit-scrollbar-corner {
-    background-color: transparent;
-}
-
-::-moz-selection {
-    color: #fff;
-    background-color: #54a0ff;
-}
